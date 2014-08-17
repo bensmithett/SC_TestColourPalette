@@ -1,0 +1,9 @@
+{
+  "name": "SC_TestColourPalette",
+  "version": "1.0.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bensmithett/SC_TestColourPalette.git"
+  }
+}
